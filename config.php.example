@@ -1,0 +1,10 @@
+<?php
+
+declare(strict_types=1);
+
+define('DB_DRIVER', 'mysql');
+define('DB_HOST', 'localhost');
+define('DB_PORT', '3306');
+define('DB_NAME', 'ahorros_db');
+define('DB_USER', 'ahorros_user');
+define('DB_PASS', 'PON_AQUI_TU_PASSWORD_SEGURA');
